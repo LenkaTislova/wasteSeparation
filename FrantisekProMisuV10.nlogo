@@ -2,7 +2,7 @@ extensions [nw matrix]
 
 breed [consumats consumat]
 
-;; To koukáte, pane doktore!
+;; To koukáte, pane doktore! GitHub mi baví!
 
 turtles-own [
   attitude ;; actual attitude of consumat
