@@ -2,6 +2,8 @@ extensions [nw matrix]
 
 breed [consumats consumat]
 
+;; To koukáte, pane doktore!
+
 turtles-own [
   attitude ;; actual attitude of consumat
   cognition ;; stores code of cognitive process used present round for determining non/sorting
